@@ -1,2 +1,3 @@
 # hello-world
-learning git
+
+Git is getting interesting, hope i get the way it works
